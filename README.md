@@ -40,3 +40,19 @@
 - [ ] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js. (Δέν έγινε)
 - [x] Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.).
 ![2.3](/interactivecharts.gif)
+
+## Συμπεράσματα
+Έπειτα απο την απασχόληση μου με την εργασία, κατέληξα στο συμπέρασμα ότι ο καθένας αξίζει να ασχοληθεί με Javascript,Html και CSS καθώς σου προσφέρουν αρκετές γνώσεις και η εργασία με αυτές ειναι ευχάριστη. Με αφορμή αυτή την εργασία έχω ως στόχο να ασχοληθώ επιπλέον με τα συγκεκριμένα εργαλεία , ώστε να αποκτήσω ακόμη περισσότερες γνώσεις
+
+## Βιβλιογραφία
+* [Multi Chart](https://codepen.io/Cod3Mast3r/pen/oxrBVQ)
+* [Pie Chart](https://codepen.io/bluesaltlabs/pen/oxKjLG)
+* [Line Chart](https://codepen.io/Yurchenko/pen/dGQZay)
+* [Αυτοκινιτηστικά Δυστηχήματα](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=tran_sf_roadve&lang=en)
+* [Ταξινομήσεις Οχημάτων](https://www.seaa.gr/el/statistics/registrations
+fbclid=IwAR2rFKh5Ls7p1G4AcKz2vugXXgU2jV5zy1lOA_9aGawi3Is0xBPCo6ZwQEQ)
+* [Δημόσιο χρέος ως προς ΑΕΠ](https://tradingeconomics.com/greece/government-debt-to-gdp)
+* [responsive voice](https://responsivevoice.org/)
+* [stack overflow](https://stackoverflow.com/)
+* [d3 github](https://github.com/d3/d3/wiki/Gallery)
+* Η εργασία βασίστηκε στον [κώδικα της αρχικής εργασίας](https://github.com/ioniodi/D3js-US-educational-attainment).
