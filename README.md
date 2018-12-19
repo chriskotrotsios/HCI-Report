@@ -5,10 +5,10 @@
 
 Η συγκεκριμένη τελική αναφορά , αφορά την εργασία ανάπτυξης Data Visualisation στο πλαίσιο του μαθήματος "Επικοινωνία Ανθρώπου-Υπολογιστή". Παρουσιάζεται περιγραφή των έργων, των εργαλείων αλλά και ο τρόπος με τον οποίο αναπτύχθηκαν τα παραδοτέα. Συμπεριλαμβάνονται gifs καθώς και φωτογραφίες, για την παρουσιάση της εργασίας και στη συνέχεια συμπεριλαμβάνονται, τα συμπεράσματα που προέκυψαν μέσα απο την εργασία , καθώς και η βιβλιογραφία.
 
-#### Εκτελέσιμο Link: https://chriskotrotsios.github.io/D3js-US-educational-attainment/index.html
-#### Προφίλ στο GitHub: https://github.com/chriskotrotsios
-#### Link Αποθετηρίου τελικής αναφοράς: https://github.com/chriskotrotsios/HCI-Report/
-#### Link Αποθετηρίου Εργασίας: https://github.com/chriskotrotsios/D3js-US-educational-attainment/tree/gh-pages
+#### [Εκτελέσιμο Link](https://chriskotrotsios.github.io/D3js-US-educational-attainment/index.html)
+#### [Προφίλ στο GitHub](https://github.com/chriskotrotsios)
+#### [Link Αποθετηρίου τελικής αναφοράς](https://github.com/chriskotrotsios/HCI-Report/)
+#### [Link Αποθετηρίου Εργασίας](https://github.com/chriskotrotsios/D3js-US-educational-attainment/tree/gh-pages)
 
 ## Εισαγωγή
 Πραγματοποίησα τα 4 πρώτα ζητούμενα του πρώτου παραδοτέου , καθώς και το πρώτο και το τρίτο ζητούμενο του δεύτερου παραδοτέου. Παρουσιάστηκαν προβλήματα στην υλοποίηση του Responsive Design (δηλ. στο 5ο ζητούμενο του 1ου παραδοτέου) καθώς και στην αντικατάσταση του καθε ενός διαδραστικού γραφήματος D3js. Τα λοιπά ζητήματα πραγματοποιήθηκαν χωρίς κάποιο πρόβλημα.
