@@ -49,8 +49,7 @@
 * [Pie Chart](https://codepen.io/bluesaltlabs/pen/oxKjLG)
 * [Line Chart](https://codepen.io/Yurchenko/pen/dGQZay)
 * [Αυτοκινιτηστικά Δυστηχήματα](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=tran_sf_roadve&lang=en)
-* [Ταξινομήσεις Οχημάτων](https://www.seaa.gr/el/statistics/registrations
-fbclid=IwAR2rFKh5Ls7p1G4AcKz2vugXXgU2jV5zy1lOA_9aGawi3Is0xBPCo6ZwQEQ)
+* [Ταξινομήσεις Οχημάτων](https://www.seaa.gr/el/statistics/registrations)
 * [Δημόσιο χρέος ως προς ΑΕΠ](https://tradingeconomics.com/greece/government-debt-to-gdp)
 * [responsive voice](https://responsivevoice.org/)
 * [stack overflow](https://stackoverflow.com/)
